@@ -3,3 +3,4 @@ These are album booklets and there are occasionally missing volumes, which I am 
 
 ## Feel free to check out my other Classical Music repositories!
 * [Playlists](https://github.com/NicKohSE3/Playlists)
+* [NAXOS-Music-Catalogues](https://github.com/NicKohSE3/NAXOS-Music-Catalogues)
